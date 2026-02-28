@@ -1,0 +1,16 @@
+{
+  "name": "qr_code_generator",
+  "version": "1.0.0",
+  "description": "Provides QR code when the user entered the URL",
+  "license": "ISC",
+  "author": "Sadeepa",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inquirer": "^13.3.0",
+    "qr-image": "^3.2.0"
+  }
+}
